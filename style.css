@@ -1,0 +1,111 @@
+body {
+  background-color: #dcf3db;
+  background-image: url(bkg-wlrd.png);
+  background-position: top;
+  background-size: cover;
+  background-attachment: fixed;
+  margin:0px;
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  color: 555;
+}
+
+h3 {
+  text-align: center;
+  font-family: sans-serif;
+  margin-bottom: 35px;
+  color: 555;
+}
+
+.botao {
+  background-color: #1b7bf3;
+  color: #fff;
+  font-size: 32px;
+  border-style: solid;
+  border-color: #1477f1;
+  border-radius: 10px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: 0px 4px 3px rgba(0,0,0,0.5);
+  margin-left: 35%;
+}
+.botao:hover{
+  box-shadow: 0px 5px 3px rgba(0,0,0,0.5);
+  background-color: #348af3;
+}
+.botao:active{
+  box-shadow: 0px 2px 1px rgba(0,0,0,0.5);
+  background-color: #1475ed;
+}
+
+.formulario{
+text-align: center;
+
+}
+
+#text-where {
+  font-size: 32px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #cacaca;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0px 3px 5px rgba(0,0,0,0.3) inset;
+  color: #555;
+  text-align: center;
+
+}
+
+.painel {
+  position: absolute;
+  width: 560px;
+  height: 250px;
+  padding: 40px;
+  top: 50%;
+  left: 50%;
+  margin: -200px 0 0 -320px;
+  background-color: rgba(215, 225, 225, 0.7);
+  border-style: solid;
+  border-width: 1px;
+  border-color: #cacaca;
+  border-radius: 10px;
+}
+
+.rodape {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 5px 7px rgba(0,0,0,0.3) inset;
+}
+
+.icons {
+  font-family: sans-serif;
+  font-size: 20px;
+  margin: 10px;
+  background-color: #eeeeee;
+  padding: 10px;
+  width: 90px;
+  height: 80px;
+  border-radius: 5px;
+  border-style: solid;
+  border: solid 1px #bbb;
+  box-shadow: 0px 4px 3px rgba(0,0,0,0.5);
+}
+.icons:hover{
+  background-color: #fafafa;
+  box-shadow: 0px 5px 3px rgba(0,0,0,0.5);
+}
+.icons:active{
+  background-color: #ededed;
+  box-shadow: 0px 2px 1px rgba(0,0,0,0.5);
+}
+.icones-conteudo{
+width: 452px;
+height: 100px;
+margin: auto;
+}
