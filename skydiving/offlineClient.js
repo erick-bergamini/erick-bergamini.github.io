@@ -18,9 +18,10 @@
 			// If BroadcastChannel is supported, listen for messages.
 			if (this._broadcastChannel)
 			{
+				var self = this;
 				this._broadcastChannel.onmessage = function (e)
 				{
-					this._OnBroadcastChannelMessage(e);
+					self._OnBroadcastChannelMessage(e);
 				};
 			};
 		}
