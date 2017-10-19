@@ -1,27 +1,24 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-  <meta charset="utf-8">
-  <title>Corrente do bem</title>
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<meta charset="UTF-8">
+<title>Skydiving</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+
+	<link rel="manifest" href="appmanifest.json">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<link rel="apple-touch-icon" sizes="128x128" href="icons/icon-128.png">
+	<link rel="apple-touch-icon" sizes="256x256" href="icons/icon-256.png">
+	<link rel="icon" type="image/png" href="icons/icon-256.png">
+
+<link rel="stylesheet" href="style.css">
+
 </head>
-
 <body>
-  <div class="painel">
-      <h1>Corrente da Ciência</h1>
-      <h3>participe enviando sua localização</h3>
-    <button type="button" name="button" class="botao" onclick="window.location='onde.html'">Participar</button>
-  </div>
-  <div class="rodape">
-    <div class="icones-conteudo">
-      <button type="button" class="icons" onclick="window.open('index.html')"><i class="fa fa-home" ></i><br>Home</button>
-      <button type="button" class="icons"><i class="fa fa-file-text"></i><br>Sobre</button>
-      <button type="button" class="icons"><i class="fa fa-users"></i><br>Equipe</button>
-      <button type="button" class="icons"><i class="fa fa-envelope"></i><br>Contato</button>
-    </div>
-  </div>
-</body>
+<div id="fb-root"></div>
 
+<script src="c2runtime.js"></script>
+<script src="start.js"></script>
+	<script src="register-sw.js"></script>
+</body>
 </html>
