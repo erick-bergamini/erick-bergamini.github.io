@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"josemito","characterIndex":0,"characterName":"Main char 01","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Josemito","traits":[],"initialLevel":1,"maxLevel":99,"name":"José","nickname":"Mito","note":"","profile":"O Maior e mais sem noção paladino da história."},
+{"id":2,"battlerName":"miles","characterIndex":1,"characterName":"Main char 01","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Miles","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mile","nickname":"Pereira","note":"","profile":""},
+{"id":3,"battlerName":"Rhoades","characterIndex":2,"characterName":"Main char 01","classId":2,"equips":[3,0,0,0,0],"faceIndex":0,"faceName":"Rhodes","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rodes","nickname":"Silva","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":4,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Emo","nickname":"Filho","note":"","profile":""}
+]
