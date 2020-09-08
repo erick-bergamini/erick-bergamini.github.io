@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1>Teste de Cookies</h1>
+
+    <script>
+function criarCookie(nome, valor, expira){
+    console.log("entrou em criarCookie");
+    var dtExpira = "expires= Tue, 01 Jan 2030 12:00:00 UTC ";
+    document.cookie = nome + "=" + valor + ";" + dtExpira;
+    console.log("criou o cookie");
+}
+
+function lerCookie(nome){
+    var vnome = nome + "=";
+    var ca = document.cookie.split(';');
+
+    for(var i=0; i < ca.length; i++){ 
+        var c = ca[i];
+        while(c.charAt(0)==' '){
+            c=c.substring(1);
+        }
+        if(c.indexOf(vnome) == 0){
+            return c.substring(vnome.length,c.length);
+        }
+    }
+    return "";
+}
+
+function iniCookie(){
+    var username = lerCookie("username");
+    if (username != ""){
+        alert("bem vindo novamente "+ username);
+    }
+    else{
+        username = prompt("Digite seu nome:", "");
+        console.log("Aceitou o nome");
+        if(username!= "" & username!= null){
+            console.log("Iniciou criar cookie");
+            criarCookie("username", username, 365);
+            
+        }
+    }
+}
+
+        // document.cookie = "language=pt-br";
+        // console.log(document.cookie);
+        // document.cookie = "logged=true";
+        // console.log(document.cookie);
+
+        // document.cookie = "language=pt-br; expires=expires= Tue, 01 Jan 2030 12:00:00 UTC";
+        // console.log(document.cookie);
+        // let sitecookies = document.cookie;
+        // let cookiearray = sitecookies.split(";");
+        // let languagecookie = cookiearray[0];
+        // let languagevalue = languagecookie.split("=")[1];
+        // let expirecookie = cookiearray[1];
+
+        // console.log(languagevalue);
+
+    </script>
+</body>
+</html>
