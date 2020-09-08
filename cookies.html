@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1>Teste de Cookies</h1>
+
+    <script>
+
+         document.cookie = "language=pt-br";
+         console.log(document.cookie);
+         document.cookie = "logged=true";
+         console.log(document.cookie);
+
+         document.cookie = "language=pt-br; expires=expires= Tue, 01 Jan 2030 12:00:00 UTC";
+         console.log(document.cookie);
+         let sitecookies = document.cookie;
+         let cookiearray = sitecookies.split(";");
+         let languagecookie = cookiearray[0];
+         let languagevalue = languagecookie.split("=")[1];
+         let expirecookie = cookiearray[1];
+
+         console.log(languagevalue);
+
+    </script>
+</body>
+</html>
