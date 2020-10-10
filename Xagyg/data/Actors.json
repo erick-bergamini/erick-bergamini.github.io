@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"clerigo","characterIndex":0,"characterName":"clerigo","classId":4,"equips":[1,1,0,3,62],"faceIndex":0,"faceName":"clerigo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Clerigo","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"mago","characterIndex":0,"characterName":"mago","classId":3,"equips":[2,1,0,3,0],"faceIndex":0,"faceName":"mago","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mago","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"guerreiro-se","characterIndex":1,"characterName":"guerreiro","classId":2,"equips":[3,0,0,3,0],"faceIndex":4,"faceName":"guerreiro","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bárbaro","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"ladino","characterIndex":0,"characterName":"ladino","classId":1,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"ladino","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ladino","nickname":"","note":"","profile":""}
+]

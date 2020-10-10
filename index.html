@@ -1,54 +1,60 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>EB-Games</title>
     <style>
-        *{
+        * {
             margin: 0;
             padding: 0;
             border: 0;
         }
-        body{
+
+        body {
             background-color: darkslategray;
             background-image: url(emb/noise.png);
         }
-        #content{
+
+        #content {
             background-color: rgb(59, 69, 77);
             width: 800px;
             height: 700px;
             margin: auto;
             box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.9);
-            back
         }
-        #cabecalho{
+
+        #cabecalho {
             height: 100px;
             background-color: #63bdbe;
             background-image: url(emb/title.png);
             border-bottom: solid 2px #fff;
         }
-        #jogos{
+
+        #jogos {
             margin: 30px;
             width: 740px;
             height: 540px;
             background-color: rgb(67, 78, 87);
         }
 
-        .capa{
+        .capa {
             width: 150px;
             height: 150px;
             margin: 17px;
             float: left;
         }
-        .img-capa{
+
+        .img-capa {
             width: 150px;
             height: 150px;
             box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.6);
-            border: 1px solid rgba(0,0,0,0.3);
+            border: 1px solid rgba(0, 0, 0, 0.3);
         }
-        .subtexto{
+
+        .subtexto {
             width: 130px;
             height: 20px;
             padding: 10px;
@@ -59,34 +65,46 @@
             color: #333;
             text-align: center;
         }
-
-        
+        .linha{
+            width: 100%;
+            height: 208px;
+        }
     </style>
 </head>
 
 <body>
- 
+
     <div id="content">
         <div id="cabecalho"></div>
         <div id="jogos">
-            <div class="capa">
-                <a href="https://erick-bergamini.github.io/cristal/"><img class="img-capa" src="emb/cristais.png"/></a>
-                <div class="subtexto">A lenda dos Cristais</div>
+            <div class="linha">
+                <div class="capa">
+                    <a href="https://erick-bergamini.github.io/cristal/"><img class="img-capa"
+                            src="emb/cristais.png" /></a>
+                    <div class="subtexto">A lenda dos Cristais</div>
+                </div>
+                <div class="capa">
+                    <a href="https://ead.ifrn.edu.br/games/eadV1/"><img class="img-capa" src="emb/ead.png" /></a>
+                    <div class="subtexto">EaD The VG</div>
+                </div>
+                <div class="capa">
+                    <a href="https://erick-bergamini.github.io/golem/"><img class="img-capa" src="emb/golem.png" /></a>
+                    <div class="subtexto">Invasão Golem</div>
+                </div>
+                <div class="capa">
+                    <a href="https://erick-bergamini.github.io/eposkydiving/"><img class="img-capa"
+                            src="emb/epo.png" /></a>
+                    <div class="subtexto">Epo Skydiving</div>
+                </div>
             </div>
-            <div class="capa">
-                <a href="https://ead.ifrn.edu.br/games/eadV1/"><img class="img-capa" src="emb/ead.png"/></a>
-                <div class="subtexto">EaD The VG</div>
-            </div>
-            <div class="capa">
-                <a href="https://erick-bergamini.github.io/golem/"><img class="img-capa" src="emb/golem.png"/></a>
-                <div class="subtexto">Invasão Golem</div>
-            </div>
-            <div class="capa">
-                <a href="https://erick-bergamini.github.io/eposkydiving/"><img class="img-capa" src="emb/epo.png"/></a>
-                <div class="subtexto">Epo Skydiving</div>
+            <div class="linha">
+                <div class="capa">
+                    <a href="https://erick-bergamini.github.io/xagyg/"><img class="img-capa" src="emb/Xagyg.png" /></a>
+                    <div class="subtexto">Xag'yg</div>
+                </div>
             </div>
         </div>
     </div>
-    <a href="cookies.html">cookies</a>
 </body>
+
 </html>

@@ -1,0 +1,129 @@
+Prólogo:
+
+Um crânio flutuando no vazio:
+"Sob o céu e sobre a terra
+Sobre a luz e sob as sombras
+para toda a eternidade..."
+
+Animação crânio aumentando...
+
+clérigo acorda assustado na igreja.
+(lampiões apagados, clérigos dormindo
+volta a dormir....
+O dia amanhece, passaros ao fundo:
+
+os clérigos estão pelo templo, andando.
+
+fiéis esperam a cerimônia que já vai começar
+
+(assistir a cerimônia do deus da luz)
+
+Ao final do culto, o sacerdote pede para falar com o clérigo.
+
+Sacerdote: Meu caro ..., como tem passado essa manhã?
+
+Escolha:
+
+1- Bem, acho...
+2- Tive um sonho ruim.
+
+1: Sacerdote: que bom encontra-lo bem, recebi uma carta ontem a noite, preciso que me ajude com um problema.
+---
+2 - Sacerdote: Que sonho? pode me dizer?
+clérigo: Sonhei com um crânio flutuando no vazio, dizendo coisas estranhas.
+
+Sacerrdote: Talvez seja uma premonição, sobre algo que possa ter ocorrido...
+
+Sacerrdote: falando nisso, ontem a noite recebi uma carta
+---
+
+Sacerrdote: Um sacerdote do nosso templo na ilha de Tebras morreu durante um enterro em um cemitério antigo.
+
+Tudo indica que foi morto por um mal que tem habitado a região, não especificaram o que é.
+
+Sacerrdote: Acabei de receber a notícia, gostaria que você investigasse para saber mais a respeito garantisse um enterro adequado ao sacerdote.
+
+Clérigo: Claro Mestre. Mas devo ir sozinho? pode ser perigoso.
+
+Sacerdote: A igreja irá cobrir as suas despesas, além disso, posso lhe conceder um dinheiro para contratar alguns heróis que lhe auxiliem.
+
+ - o herói recebe 60 Moedas
+
+Este dinheiro lhe servirá de entrada para contratar os heróis. Ao retornarem, posso oferecer mais.
+
+Boa sorte, o navio irá partir no final da tarde. Apronte tudo até lá.
+
+Clérigo: Não irei decepcioná-lo senhor.
+
+---------
+
+Rediálogo:
+
+Ainda possui dúvidas?
+
+Onde acho aventureiros?
+Procure por aventureiros, existem vários por toda a cidade. Pode procurar nas tabernas, no porto, no mercado, ou até na biblioteca.
+
+Quanto eu ofereço a eles?
+Negocie um valor para contratar seus serviços. Avise que, ao terminar a missão, eu posso dar mais algumas moedas.
+
+Quando o navio sai do porto?
+O navio sairá no final da tarde, não demore muito na busca.
+
+Onde fica a ilha de Tebras?
+Fica a nordeste daqui, mas não se preocupe, o capitão Marco irá levá-lo até lá.
+
+Fim:
+Que Deus ilumine seu caminho.
+
+
+
+
+
+
+
+--------------
+
+Continente de Uór
+
+Capital:
+1 - Kalis - A estrela Central - Fica no meio do mapa, possui clima moderado.
+
+Cidades grandes:
+1 - Sumar (Estrela do Leste - Temperado)
+2 - Alundre (Estrela do Norte - Semiárido)
+3 - Domius (Estrela do Oeste - Tropical)
+4 - Monses (Estrela do Sul - Frio)
+
+Vilas:
+1 - Tebras (Vila alta - Entre Sumar e Domuis: Nordeste)
+2 - Caiçás (Vila floresta - Entre Monses e Domius: Sudoeste)
+3 - Oumã (Vila deserto - entre Alundre e Domius: Noroeste)
+4 - Runion (Vila gélida - Entre Monses e Sumar: Sudeste)
+
+Postos:
+1 - Posto de Kurman
+2 - Posto avançado de Sum ar
+3 - Forte de Aldiur
+4 - Limites de Feralus
+
+Locais naturais:
+1 - Montes Termais (Minas - Vulcão, próximo a Tebras)
+2 - Floresta Negra (Madereiras - vila élfica escondida nas árvores, próximo a Caiçás)
+3 - Picos de Hima (Caça e pesca - Montanhas cavernosas, Próximo a Runion)
+4 - Charcos profundos - poço de piche, próximo a Oumã)
+
+Senhor da Luz - Divindade sagrada oficial de Uór
+Senhor dos abismos - Divindade malígna inimigo do senhor da luz.
+Ayuimã - Deus dos povos perdidos da floresta negra.
+Ûmon - Demônio das profundezas - aquele que leva todos para a escuridão do piche)
+Sandar - Divindade sem preces dos mercenários perdidos.
+
+
+
+
+
+
+
+
+
