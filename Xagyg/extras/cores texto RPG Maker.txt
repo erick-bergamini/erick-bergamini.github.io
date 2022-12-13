@@ -1,0 +1,17 @@
+Cegueira -  \c[13]
+Silêncio -  \c[4]
+Sono     -  \c[13]
+Fúria    -  \c[18]
+Confuso  -  \c[25]
+Veneno   -  \c[11]
+Facinio  -  \c[27]
+
+      -------
+Habilidade - \c[3]
+Nomes      - \c[1]
+Locais     - \c[25]
+Itens      - \c[14]
+Quest      - \c[6]
+
+
+LAYER 54 1 fog 1 0 220 5 0 0 0

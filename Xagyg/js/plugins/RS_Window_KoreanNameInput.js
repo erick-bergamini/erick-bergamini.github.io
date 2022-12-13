@@ -223,7 +223,7 @@ RS.Window_KoreanNameInput.Params = RS.Window_KoreanNameInput.Params || {};
   'Ê','Í','Ó','Ô','Õ','Ú','-','.',',',';',
   '0','1','2','3','4','!','#','$','%','&',
   '5','6','7','8','9','(',')','*','+','-',
-  " [⇧]",'','','[  _  ]','','','[🠔]','','[OK]' ];
+  " [⇧]",'','','[ __ ]','','','[←]','','[OK]' ];
 
   Window_KoreanNameInput.KOREAN2 =
   [ 'a','b','c','d','e','f','g','h','i','j',
@@ -232,15 +232,15 @@ RS.Window_KoreanNameInput.Params = RS.Window_KoreanNameInput.Params || {};
     'ê','í','ó','ô','õ','ú','-','.',',',';',
     '0','1','2','3','4','!','#','$','%','&',
     '5','6','7','8','9','(',')','*','+','-',
-    " [⇧]",'','','[  _  ]','','','[🠔]','','[OK]'  ];  
+    " [⇧]",'','','[ __ ]','','','[←]','','[OK]'  ];  
   
   Window_KoreanNameInput.prototype.initialize = function(editWindow) {
     var self = this;
     this._dataFromTable = {};
     this._dataFromTable.maxItems = Window_KoreanNameInput.KOREAN.length;
     this._dataFromTable.okIndex = Window_KoreanNameInput.KOREAN.indexOf("[OK]");
-    this._dataFromTable.backIndex = Window_KoreanNameInput.KOREAN.indexOf("[🠔]");
-    this._dataFromTable.spaceIndex = Window_KoreanNameInput.KOREAN.indexOf("[  _  ]");
+    this._dataFromTable.backIndex = Window_KoreanNameInput.KOREAN.indexOf("[←]");
+    this._dataFromTable.spaceIndex = Window_KoreanNameInput.KOREAN.indexOf("[ __ ]");
     this._dataFromTable.specificIndex = Window_KoreanNameInput.KOREAN.indexOf(" [ CapsLK ]");
     Window_NameInput.prototype.initialize.call(this, editWindow);
   };
@@ -277,7 +277,7 @@ RS.Window_KoreanNameInput.Params = RS.Window_KoreanNameInput.Params || {};
   Window_KoreanNameInput.prototype.character = function(index) {
     index = index || this._index;
     var c = this.table()[this._page][index];
-    var exclude = ['[  _  ]','[🠔]','[OK]', " [⇧]"];
+    var exclude = ['[ __ ]','[←]','[OK]', " [⇧]"];
     var isCharacter = (exclude.indexOf(c) === -1);
     if(isCharacter) {
       return c;
@@ -475,8 +475,8 @@ RS.Window_KoreanNameInput.Params = RS.Window_KoreanNameInput.Params || {};
 
       this._dataFromTable.maxItems = table[this._page].length;
       this._dataFromTable.okIndex = table[this._page].indexOf("[OK]");
-      this._dataFromTable.backIndex = table[this._page].indexOf("[🠔]");
-      this._dataFromTable.spaceIndex = table[this._page].indexOf("[  _  ]");
+      this._dataFromTable.backIndex = table[this._page].indexOf("[←]");
+      this._dataFromTable.spaceIndex = table[this._page].indexOf("[ __ ]");
       this._dataFromTable.specificIndex = table[this._page].indexOf(" [⇧]");
 
       for (var i = 0; i < this._dataFromTable.maxItems; i++) {
