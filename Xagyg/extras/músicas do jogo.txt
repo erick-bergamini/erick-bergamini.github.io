@@ -1,0 +1,47 @@
+Ambientes: 12 músicas
+======================
+✓ SUMAR  <música: Fairy02 (RTP 2K)>
+✓ TEBRAS  <música: Slow 02>
+✓ Cemitério Tebras  <música: Negative04 (RTP XP)>
+✓ Masmorra  <música: Dungeon1 (RTP XP)> - Masmorras em geral
+
+Montes termais  <música: Cristal Harp>
+✓  - Torre Razery  <música: Tower1 (RTP 2K)>
+✓  - Forte  <música: Tower 2 (RTP 2K)>
+✓  - Floresta  <música: Slow 05 (RTP XP)>
+
+Mina sob montanha solitária - mesma do subsolo
+✓  - Subsolo  <música: Silence (RTP 2k3)>
+✓  - Masmorra (lava)  <música: Dungeon08 (RTP XP)>
+
+✓ Mapa Mundi  <música: Field01 (RTP XP)>
+
+Situações: 13 músicas
+======================
+✓ Fulga/Esguio  <música: Calm Terror>
+✓ Pânico  <música: Crisis (rtp 2k)>
+✓ Navegando  <música: Trial (RTP 2k)>
+✓ Medo  <música: Dark Mountain>
+✓ Tranquilidade  <música: vila1>
+✓ Batalha simples  <música: Batalha1>
+✓ Batalha grande  <música: Battle3>
+✓ Batalha Final  <música: Devil (rtp 2k)>
+✓ Tristeza  <música: Ending2 (RTP 2K)>
+✓ Glória  <música: Hero2 (RTP 2K)>
+✓ Tensão  <música: Dungeon2>
+✓ Game Over <música: GameOver 1 (RTP 2K)>
+✓ Abertura <música: Opening2 (RTP 2K)>
+
+Locais: 7 músicas
+===================
+✓ Taberna  <música: Peace3 (RTP 2k)>
+✓ Inn  <música: Dreaminess (RTP 2k3)>
+✓ Loja  <música: Tavern (RTP 2K3)>
+✓ Orgão público <música: Slow 07 (RTP XP)>
+✓ Torre do Mago <música: Sala Monstro> - Mística em geral
+✓ Igreja <música: bch-church>
+✓ Missa <música: Church>
+
+
+32 músicas no total.
+Não pode passar dos 500kb (músicas com 60mbps)
