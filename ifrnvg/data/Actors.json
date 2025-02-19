@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"battlerName":"battler_01","characterIndex":0,"characterName":"Children without balloons","classId":1,"equips":[1,1,0,3,62],"faceIndex":0,"faceName":"","traits":[],"initialLevel":5,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"vilma","characterIndex":3,"characterName":"amigos-turma3","classId":3,"equips":[2,1,0,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":5,"maxLevel":99,"name":"Vilma","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"battler_02","characterIndex":1,"characterName":"amigos-turma","classId":2,"equips":[3,0,0,3,0],"faceIndex":4,"faceName":"","traits":[],"initialLevel":5,"maxLevel":99,"name":"Alexsander","nickname":"Alex","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_7","characterIndex":1,"characterName":"amigos-turma","classId":1,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marcos","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"mouse","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"$chip","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"chip","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"$chip","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"chip2","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"$chip","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"chip3","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
