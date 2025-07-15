@@ -17,6 +17,13 @@ Imported.TDDP_BindPicturesToMap = "1.0.7";
  * "layer" a picture is drawn to, like below characters, or even below the
  * parallax layer.
  *
+ * Usage:
+ * BindPictureToMap [Pic_ID]
+ * ChangePictureLayer [Pic_ID] [Options]
+ * 
+ * Options may be: bottom, below_tilemap, below_characters, below_weather, top
+ * 
+ * 
  * For updates and easy to use documentation, please go to the plugin's website:
  * http://mvplugins.tordamian.com/?p=54
  *
